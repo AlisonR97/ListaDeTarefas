@@ -1,15 +1,18 @@
 Projeto landing page da uniasselvi
 
-![image](https://github.com/AlisonR97/landingpage/assets/144969577/848e48c4-5d93-4af2-95a3-6af822eadcc6)
+![image](https://github.com/AlisonR97/landingpage/assets/144969577/fc62d9e0-539b-4aa9-826a-3e44c8aa2d13)
+
 
 
 
 integrantes 
-André 
 Alison
-João
-Lucas F.
 Lucas G
+
+João
+André 
+Lucas F.
+
 
 projeto visa criar um aplicação web, com sistema de todolist(lista de tarefas), com acesso a usuário login e senha .
 
